@@ -23,3 +23,8 @@ h1{
     margin-bottom: 100px;
     margin-left: 100px;
 }
+
+.header {
+    height: 80%;
+    width: 100%;
+}
